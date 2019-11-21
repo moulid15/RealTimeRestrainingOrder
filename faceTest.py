@@ -5,7 +5,7 @@ import face_recognition
 #/* Name of the project:Real-time restraining order   */
 #/* Author:Moulid Ahmed     	                     */
 #/* 		-Any other info-                        */
-#/* Date : 11/08/2019                              */
+#/* Date : 11/22/2019                              */
 #/*************************************************/
 
 # Load the jpg file into a numpy array

@@ -7,7 +7,7 @@ from os import system, name
 #/* Name of the project:Real-time restraining order   */
 #/* Author:Moulid Ahmed     	                     */
 #/* 		-Any other info-                        */
-#/* Date : 11/08/2019                              */
+#/* Date : 11/22/2019                              */
 #/*************************************************/
 
 board = Arduino('/dev/ttyACM0')

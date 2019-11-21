@@ -8,7 +8,7 @@ from time import sleep
 #/* Name of the project:Real-time restraining order   */
 #/* Author:Moulid Ahmed     	                     */
 #/* 		-Any other info-                        */
-#/* Date : 11/08/2019                              */
+#/* Date : 11/22/2019                              */
 #/*************************************************/
 
 video_capture = cv2.VideoCapture(0) # I want to compare webcam image and stored image. This will help pull up webcam

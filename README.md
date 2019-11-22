@@ -11,8 +11,8 @@ This program recognizes a face you have block from coming near your home. This w
  
  ### components needed
  
- For this program demo to work you would need the follow 
- -arduino uno
- -Vibration Motor for module
- -bread board and jumper wires
+ For this program demo to work you would need the follow </br>
+ -arduino uno </br>
+ -Vibration Motor for module </br>
+ -bread board and jumper wires </br>
  

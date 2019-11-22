@@ -1,4 +1,5 @@
 # RealTimeRestrainingOrder
+This program recognizes a face you have block from coming near your home. This will send a signal to a portable vibrating motor, like that on the phones. That motor will vibrate if the face blocked matches what the camera sees.
   
  ### running the program
  

@@ -8,3 +8,11 @@ This program recognizes a face you have block from coming near your home. This w
  ```
  
  If that does not work try using ```python3 faceRecongition.py```
+ 
+ ### components needed
+ 
+ For this program demo to work you would need the follow 
+ -arduino uno
+ -Vibration Motor for module
+ -bread board and jumper wires
+ 
